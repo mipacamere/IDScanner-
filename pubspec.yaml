@@ -1,0 +1,14 @@
+name: flutter_document_scanner
+description: A Flutter web app
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Aggiungi qui i tuoi pacchetti se servono
+
+flutter:
+  uses-material-design: true
