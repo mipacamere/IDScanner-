@@ -1,0 +1,6 @@
+{
+  "name": "Flutter Web App",
+  "short_name": "FlutterApp",
+  "start_url": "/",
+  "display": "standalone"
+}
